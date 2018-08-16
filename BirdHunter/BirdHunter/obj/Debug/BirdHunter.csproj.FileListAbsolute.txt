@@ -1,0 +1,9 @@
+D:\c#\BirdHunter\BirdHunter\bin\Debug\BirdHunter.exe.config
+D:\c#\BirdHunter\BirdHunter\bin\Debug\BirdHunter.exe
+D:\c#\BirdHunter\BirdHunter\bin\Debug\BirdHunter.pdb
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.BirdHunter.resources
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.Properties.Resources.resources
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.csproj.GenerateResource.Cache
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.exe
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.pdb
+D:\c#\BirdHunter\BirdHunter\obj\Debug\BirdHunter.csprojResolveAssemblyReference.cache
